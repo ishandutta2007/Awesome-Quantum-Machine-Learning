@@ -73,3 +73,14 @@ Developing functional QML requires mitigating explicit physical limits that do n
 | **[De Novo Quantum Chemistry & Material Synthesis](./pages/quantum-chemistry.md)** | *Application:* Accelerates molecular configuration tracking for drug discovery and next-generation battery design. QML models map electron cloud probability fields natively, bypassing the exponential scaling limits that cause classical supercomputers to crash when simulating complex chemical compounds. | 2014 | [Peruzzo et al.](https://arxiv.org/abs/1304.3061) |
 | **[High-Dimensional Financial Optimization](./pages/financial-optimization.md)** | *Application:* Optimizes global macro-asset portfolios or cracks high-frequency derivative pricing equations. QML feature maps project volatile asset correlation metrics into infinite-dimensional Hilbert spaces, discovering hidden market patterns and risk boundaries faster than classical Monte Carlo simulations. | 2018 | [Rebentrost et al.](https://arxiv.org/abs/1811.03975) |
 | **[Quantum Error Mitigation Correction](./pages/error-mitigation.md)** | *Application:* Deployed directly into the quantum computing control stack. Specialized QML models learn the physical noise signatures of specific QPU architectures at runtime, actively predicting and cancelling out environmental thermal decoherence to prolong physical qubit execution windows. | 2017 | [Li & Benjamin](https://arxiv.org/abs/1611.09301) |
+
+## 🌟 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Quantum-Machine-Learning&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Quantum-Machine-Learning&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Quantum-Machine-Learning&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Quantum-Machine-Learning&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
