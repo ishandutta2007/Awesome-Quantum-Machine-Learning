@@ -1,11 +1,18 @@
-# Awesome-Quantum-Machine-Learning
-## Quantum Machine Learning (QML): Evolution, Variants, & Applications
+<!-- SEO: Quantum Machine Learning (QML), Quantum Computing, AI, Machine Learning, Noisy Intermediate-Scale Quantum, VQC, QCNN, Algorithms -->
+<div align="center">
+<img src="./assets/banner.svg" alt="Banner" />
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+# 🌌 Awesome-Quantum-Machine-Learning 🚀
+## ⚛️ Quantum Machine Learning (QML): Evolution, Variants, & Applications
 
 Quantum Machine Learning (QML) is an emerging discipline that merges quantum computing physics with classical machine learning architectures. By substituting classical bits (0 or 1) with quantum bits (qubits) capable of maintaining superposition and entanglement, QML aims to process highly complex, high-dimensional vector spaces. QML models are designed to find structural patterns in data that are computationally intractable for classical silicon hardware, tracking an algorithmic pathway toward true quantum advantage.
 
 ---
 
-## 1. The Chronological Evolution
+## ⏳ 1. The Chronological Evolution
 
 The architectural progression of QML reflects a transition from theoretical, error-corrected quantum algorithms to hardware-aware variational hybrids, moving toward modern geometric and tensor-network integrations.
 
@@ -23,7 +30,7 @@ flowchart LR
 
 ---
 
-## 2. Core Operational Variants (The 4-Quadrant Matrix)
+## 🔲 2. Core Operational Variants (The 4-Quadrant Matrix)
 
 QML methodologies are strictly categorized based on whether the underlying data source and the processing computer infrastructure are classical or quantum in nature.
 
@@ -36,7 +43,7 @@ QML methodologies are strictly categorized based on whether the underlying data 
 
 ---
 
-## 3. Structural Circuit & Model Types
+## 🏗️ 3. Structural Circuit & Model Types
 
 These variations define the specific internal configurations of gates and layers within a quantum machine learning algorithm.
 
@@ -48,7 +55,7 @@ These variations define the specific internal configurations of gates and layers
 
 ---
 
-## 4. Fundamental Theoretical Bottlenecks
+## 🚧 4. Fundamental Theoretical Bottlenecks
 
 Developing functional QML requires mitigating explicit physical limits that do not exist within standard silicon-based deep learning pipelines.
 
@@ -59,7 +66,7 @@ Developing functional QML requires mitigating explicit physical limits that do n
 
 ---
 
-## 5. Frontier Real-World Applications
+## 🌍 5. Frontier Real-World Applications
 
 | Application | Details | Year First Used | Paper Link |
 | --- | --- | --- | --- |
