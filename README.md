@@ -9,8 +9,11 @@ Quantum Machine Learning (QML) is an emerging discipline that merges quantum com
 
 The architectural progression of QML reflects a transition from theoretical, error-corrected quantum algorithms to hardware-aware variational hybrids, moving toward modern geometric and tensor-network integrations.
 
-[Fault-Tolerant Algorithms (HHL, 2009)] ----> [Variational NISQ Hybrids (VQC, ~2018)] ----> [Geometric & Tensor Networks (2024+)](Requires Millions of Stable Qubits)           (Noise-Resistant Co-Processor Loops)           (Symmetry-Aware Structural Mapping)
-
+```mermaid
+flowchart LR
+    A["Fault-Tolerant Algorithms (HHL, 2009)<br/>(Requires Millions of Stable Qubits)"] ---> B["Variational NISQ Hybrids (VQC, ~2018)<br/>(Noise-Resistant Co-Processor Loops)"] 
+    B ---> C["Geometric & Tensor Networks (2024+)<br/>(Symmetry-Aware Structural Mapping)"] 
+```
 
 *   **The Fault-Tolerant Era (Early Theoretical, ~2009–2017)**
     *   *Concept:* Rooted in exact mathematical speedups. Algorithms like the **HHL algorithm** (2009) unlocked exponential acceleration for solving linear systems of equations, forming the basis for early Quantum Principal Component Analysis (QPCA) and Quantum Support Vector Machines (QSVM).
